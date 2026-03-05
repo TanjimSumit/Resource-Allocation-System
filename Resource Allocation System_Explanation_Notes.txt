@@ -1,0 +1,2 @@
+Resource Allocation System Presentation Notes
+Developed using Waterfall Model.
